@@ -37,3 +37,4 @@ Open to forks, discussions, and collaborative building.
 Latest commit: February 5, 2026 (see commit history for exact time and hash)
 ## Current status (Feb 5, 2026)
 Idea timestamped and repo created. Next step: test token launch + basic DAO setup.
+Copyright © 2026 Dis287. All rights reserved.
