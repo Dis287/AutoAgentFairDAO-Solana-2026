@@ -33,5 +33,7 @@ This remains largely untapped in the Solana meme/DAO ecosystem as of early 2026 
 
 Idea originated & timestamped here first on February 5, 2026.  
 Open to forks, discussions, and collaborative building.
+## Commit proof
+Latest commit: February 5, 2026 (see commit history for exact time and hash)
 ## Current status (Feb 5, 2026)
 Idea timestamped and repo created. Next step: test token launch + basic DAO setup.
